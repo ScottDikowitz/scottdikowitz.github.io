@@ -469,21 +469,41 @@ footer .footer-below {
     opacity: 0;
 }
 
-.skills-list > li {
+.skills-list > div {
   float: left;
   display: block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
   width: 200px;
+  min-height: 100px;
+}
+
+@media screen and (max-width: 480px) {
+    .skills-list > div {
+        width: 100px;
+    }
+}
+
+.uls-container {
+    margin: auto;
+    display: flex;
+    flex: 1
+    display: -webkit-flex;
+    align-items: center;
+
+    flex-direction: column;
+    -webkit-flex-direction: column;
+
 }
 
 .skills-list {
-  width: 1200px;
   margin: auto;
 }
 
 ul {
   list-style: none;
 }
-
 
 .skills-list img {
   width: 150px;
