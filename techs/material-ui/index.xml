@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Material-UI on Scott Dikowitz</title>
+    <link>http://scottdikowitz.github.io/techs/material-ui/</link>
+    <description>Recent content in Material-UI on Scott Dikowitz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Scott Dikowitz</copyright>
+    <lastBuildDate>Sat, 02 Feb 2019 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="http://scottdikowitz.github.io/techs/material-ui/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Online Leasing</title>
+      <link>http://scottdikowitz.github.io/portfolio/online-leasing/</link>
+      <pubDate>Sat, 02 Feb 2019 19:47:09 +0200</pubDate>
+      
+      <guid>http://scottdikowitz.github.io/portfolio/online-leasing/</guid>
+      <description>Online Leasing is a mobile-first site designed to help a renter fill out an application for an apartment. Over the course of 10+ screens, the user fills in info about themself including income and employment, invites roommates and guarantors, and pays an application fee.</description>
+    </item>
+    
+  </channel>
+</rss>

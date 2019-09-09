@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PostgreSQL on Scott Dikowitz</title>
+    <link>http://scottdikowitz.github.io/techs/postgresql/</link>
+    <description>Recent content in PostgreSQL on Scott Dikowitz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Scott Dikowitz</copyright>
+    <lastBuildDate>Tue, 02 Jul 2019 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="http://scottdikowitz.github.io/techs/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clacku</title>
+      <link>http://scottdikowitz.github.io/portfolio/clacku/</link>
+      <pubDate>Tue, 02 Jul 2019 19:47:09 +0200</pubDate>
+      
+      <guid>http://scottdikowitz.github.io/portfolio/clacku/</guid>
+      <description>Clacku is a hyperlocal social app available for iOS and Android. See recent posts made from around your location. Use the explore page to see what people are talking about all around the world. Upvote posts that interest you. See what&amp;rsquo;s trending around you or around the world.</description>
+    </item>
+    
+    <item>
+      <title>Call Banner</title>
+      <link>http://scottdikowitz.github.io/portfolio/call-banner/</link>
+      <pubDate>Wed, 02 Jan 2019 19:47:09 +0200</pubDate>
+      
+      <guid>http://scottdikowitz.github.io/portfolio/call-banner/</guid>
+      <description>This call banner was developed in-house for Nestio. It enables agents to place outgoing or accept incoming calls directly through the browser. Implemented using twilio-client.js and twilio-sync.js. Follows the React composition pattern and makes use of the context API.</description>
+    </item>
+    
+    <item>
+      <title>Instashare</title>
+      <link>http://scottdikowitz.github.io/portfolio/instashare/</link>
+      <pubDate>Wed, 02 Sep 2015 19:47:09 +0200</pubDate>
+      
+      <guid>http://scottdikowitz.github.io/portfolio/instashare/</guid>
+      <description>My take on instagram.com, written with React.js/Flux architecture. Instashare lets you make posts, as well as comment on them, like them, and follow users. A feed page displays posts by you and people you&amp;rsquo;re following.</description>
+    </item>
+    
+  </channel>
+</rss>
